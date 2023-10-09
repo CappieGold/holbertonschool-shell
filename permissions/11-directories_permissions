@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 001 permissions
+chmod 111 permissions
